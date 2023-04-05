@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://i.328888.xyz/2023/04/05/i83QMt.png';
+var url = 'https://nyht6.github.io/eatxiao/static/images/ClickBefore.PNG';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
