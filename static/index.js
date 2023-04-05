@@ -14,7 +14,7 @@ let __Time = 20;
 let __k = 4;
 let _close = false;
 let _fsj = false;
-var url = 'https://img1.imgtp.com/2022/08/18/StspmjrA.jpeg';
+var url = 'https://i.328888.xyz/2023/04/05/i83QMt.png';
 
 function isplaying() {
     return document.getElementById('welcome').style.display == 'none' &&
